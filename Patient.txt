@@ -1,0 +1,16 @@
+---------Patient Entry--------------
+Patient ID: 5
+Patient Name: Sadik Saleh
+Patient Disease: Dengue
+Patient Gender: male
+Patient Age: 14
+Chosen Doctor for Appointment: Dr. Rafik Kuzaman
+Selected Appointment Slot: 11:00 AM
+---------Patient Entry--------------
+Patient ID: 6
+Patient Name: raju
+Patient Disease: Leg_fracture
+Patient Gender: male
+Patient Age: 82
+Chosen Doctor for Appointment: Dr. Meherun Proma
+Selected Appointment Slot: 1:00 PM

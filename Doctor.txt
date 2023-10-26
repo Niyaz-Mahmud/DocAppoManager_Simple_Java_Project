@@ -1,0 +1,18 @@
+---------Doctor Entry--------------
+Doctor ID: 5
+Doctor Name: Niyaz Mahmud
+Doctor Speciality: psychiatrist
+Doctor Appointment Time: 08.00pm-10.00pm
+Doctor Gender: Male
+Doctor Room No: 57
+Doctor Fee: 800
+
+---------Doctor Entry--------------
+Doctor ID: 6
+Doctor Name: shona mia
+Doctor Speciality: Eye
+Doctor Appointment Time: 12.00pm-8.00pm
+Doctor Gender: male
+Doctor Room No: 59
+Doctor Fee: 1700
+
